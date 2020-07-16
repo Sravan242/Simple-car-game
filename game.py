@@ -2,11 +2,16 @@ import pygame,sys
 
 import time
 
+
+
 import random
 
 
 
+
+
 pygame.init()
+
 
 
 
